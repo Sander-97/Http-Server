@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<server>
+    <handler>
+        <handler-class>xyz.bxdsander.http.handler.loginHandler</handler-class>
+        <url-pattern>/login</url-pattern>
+    </handler>
+</server>
